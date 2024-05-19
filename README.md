@@ -5,7 +5,13 @@
 
 🚀 I'm actively developing a flight-planner application, that is based on TDD principles.
 
-💻 Additionally, I specialize in building responsive UIs using TypeScript, CSS, Bootstrap, TanStack Router, and other cutting-edge technologies.
+💻 Additionally, I have built responsive UI using TypeScript, CSS, Bootstrap, TanStack Router, and other cutting-edge technologies which can be seen in the "UI" project.
+
+🤝 I believe in the power of collaboration and am always open to working together on exciting projects. 
+
+🌟 Whether it's enhancing this repository, exploring new ideas, or tackling challenges together, 
+   
+    - feel free to reach out! Let's create impactful solutions and innovate in the world of software development.
 
 
 
