@@ -1,7 +1,7 @@
 # JackDamniel / README.md
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's Linards here!
 
-👨‍💻 A passionate Software Developer currently leveraging OOP and TDD principles to craft a Spring Boot application.
+👨‍💻 A passionate Software Developer with experience in Java, Spring Boot, Typescript, SQL, and other technologies which can be seen in my projects.
 
 🚀 I'm actively developing new projects and improving my coders skills.
 
